@@ -1,0 +1,43 @@
+/* Styles for the image */
+img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Styles for the text container */
+  .text_container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Styles for the heading */
+  h1 {
+    font-size: 48px;
+    line-height: 56px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 0;
+  }
+  
+  h2 {
+    font-size: 32px;
+    line-height: 40px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+  
+  /* Styles for the button */
+  .get_button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .get_button:hover {
+    background-color: #0069d9;
+  }
